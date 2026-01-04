@@ -1,5 +1,21 @@
-# 📊 Sales Data Analysis & Visualization using Python  
-**Week 4 – Data Visualization Project**
+
+*Week 4 – Data Visualization Project*
+
+# 📊 Sales Data Analysis & Visualization using Python
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)](https://matplotlib.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-success)](#)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](#-license)
+
+---
+
+### 🔘 Quick Access
+[![View Repository](https://img.shields.io/badge/View-Repository-black?style=for-the-badge&logo=github)](https://github.com/mjchaudhary00/week-4-data-visualization-python)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge)](https://github.com/mjchaudhary00/week-4-data-visualization-python/archive/refs/heads/main.zip)
+[![View Report](https://img.shields.io/badge/View-Report-green?style=for-the-badge)](report/final_report.md)
+[![Visualizations](https://img.shields.io/badge/View-Visualizations-orange?style=for-the-badge)](visualizations/)
 
 ---
 
