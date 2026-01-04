@@ -1,7 +1,41 @@
 
 *Week 4 – Data Visualization Project*
 
-# 📊 Sales Data Analysis & Visualization using Python
+<div align="center">
+
+# 📊 Sales Data Analysis & Visualization using Python  
+
+<!-- Tech Badges -->
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square" />
+</a>
+<a href="https://pandas.pydata.org/">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=flat-square" />
+</a>
+<a href="https://matplotlib.org/">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat-square" />
+</a>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" />
+
+<br><br>
+
+<!-- Action Buttons -->
+<a href="https://github.com/mjchaudhary00/week-4-data-visualization-python">
+  <img src="https://img.shields.io/badge/View_Repository-GitHub-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/mjchaudhary00/week-4-data-visualization-python/archive/refs/heads/main.zip">
+  <img src="https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge" />
+</a>
+<a href="report/final_report.md">
+  <img src="https://img.shields.io/badge/View-Report-green?style=for-the-badge" />
+</a>
+<a href="visualizations/">
+  <img src="https://img.shields.io/badge/View-Visualizations-orange?style=for-the-badge" />
+</a>
+
+</div>
+
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)](https://pandas.pydata.org/)
