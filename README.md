@@ -181,7 +181,7 @@ See the detailed analysis report in `report/final_report.md` for:
 
 ## 👤 Author
 
-**Mahesh Chaudhary**  
+**Mehul Chaudhary**  
 GitHub: [@mjchaudhary00](https://github.com/mjchaudhary00)
 
 ---
