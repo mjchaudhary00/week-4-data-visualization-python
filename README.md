@@ -1,40 +1,44 @@
-\# Week 4 – Data Visualization \& Complete Data Analysis Project
-
-
-
-\## Project Description
-
-This project focuses on performing a complete data analysis workflow on sales data using Python.
-
-It includes data loading, cleaning, feature engineering, visualization, and reporting.
-
-
-
-The project is part of Week 4 coursework and demonstrates practical data visualization skills.
-
-
+# 📊 Sales Data Analysis & Visualization using Python  
+**Week 4 – Data Visualization Project**
 
 ---
 
+## 🔍 Project Summary
+This project showcases a complete **data analysis + visualization pipeline** using Python.  
+The focus is not just on plotting charts, but on **deriving actionable insights from raw sales data** through structured preprocessing, aggregation, and visual storytelling.
 
-
-\## Technologies Used
-
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- NumPy
-
-
+The project follows **industry-style project organization**, reproducibility standards, and clean analytical logic.
 
 ---
 
+## 🎯 Problem Statement
+Businesses often collect sales data but fail to extract insights due to:
+- Poor data cleaning
+- Unstructured analysis
+- Ineffective visual communication
 
+This project solves that by converting raw transactional data into **decision-ready insights**.
 
-\## Project Structure
+---
 
+## 🧠 Key Objectives
+- Perform structured exploratory data analysis (EDA)
+- Compute key business metrics
+- Visualize trends, distributions, and comparisons
+- Follow professional GitHub project standards
+- Generate reusable, presentation-ready charts
 
+---
 
+## 🛠️ Tech Stack & Tools
+| Category | Tools |
+|-------|------|
+| Language | Python 3 |
+| Data Handling | Pandas, NumPy |
+| Visualization | Matplotlib |
+| Version Control | Git, GitHub |
+| OS | Cross-platform |
+
+---
+
+## 📁 Project Structure
