@@ -40,5 +40,16 @@ This project solves that by converting raw transactional data into **decision-re
 | OS | Cross-platform |
 
 ---
+## 📊 Visualizations
+
+### Sales by Product
+![Sales by Product](visualizations/sales_by_product.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](visualizations/monthly_sales_trend.png)
+
+### Sales by Region
+![Sales by Region](visualizations/sales_by_region.png)
+
 
 ## 📁 Project Structure
