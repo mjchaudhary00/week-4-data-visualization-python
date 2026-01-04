@@ -82,13 +82,14 @@ This project solves that by converting raw transactional data into **decision-re
 ## 📊 Visualizations
 
 ### Sales by Product
-![Sales by Product](visualizations/sales_by_product.png)
+![Sales by Product](https://raw.githubusercontent.com/mjchaudhary00/week-4-data-visualization-python/main/visualizations/sales_by_product.png)
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](visualizations/monthly_sales_trend.png)
+![Monthly Sales Trend](https://raw.githubusercontent.com/mjchaudhary00/week-4-data-visualization-python/main/visualizations/monthly_sales_trend.png)
 
 ### Sales by Region
-![Sales by Region](visualizations/sales_by_region.png)
+![Sales by Region](https://raw.githubusercontent.com/mjchaudhary00/week-4-data-visualization-python/main/visualizations/sales_by_region.png)
+
 
 
 ## 📁 Project Structure
