@@ -1,4 +1,3 @@
-
 *Week 4 – Data Visualization Project*
 
 <div align="center">
@@ -20,7 +19,6 @@
 
 <br><br>
 
-<!-- Action Buttons -->
 ### 🔘 Quick Access
 
 <a href="https://github.com/mjchaudhary00/week-4-data-visualization-python">
@@ -38,52 +36,79 @@
 
 </div>
 
-
-
 ---
 
 ## 🔍 Project Summary
-This project showcases a complete **data analysis + visualization pipeline** using Python.  
-The focus is not just on plotting charts, but on **deriving actionable insights from raw sales data** through structured preprocessing, aggregation, and visual storytelling.
+This project demonstrates a **complete end-to-end data analysis and visualization pipeline** using Python.  
+The focus is on transforming raw sales data into **actionable, decision-ready insights** using structured preprocessing, aggregation, and visual storytelling.
 
-The project follows **industry-style project organization**, reproducibility standards, and clean analytical logic.
-
----
-## ✅ Quality Standards Checklist
-
-All required quality standards for full marks have been addressed and documented below.
+The project follows **industry-standard repository organization**, reproducibility principles, and clean analytical logic.
 
 ---
 
-### 📌 Project Overview
-✔ The project includes a clear and detailed overview explaining:
-- The purpose of the analysis  
-- The business problem being addressed  
-- The value of data visualization in decision-making  
+## 🎯 Problem Statement
+Businesses often collect sales data but fail to extract insights due to:
+- Poor data cleaning practices  
+- Unstructured analysis workflows  
+- Ineffective visual communication  
 
-The objectives and expected outcomes are explicitly stated in the README.
-
----
-
-### 🎯 Goals & Objectives
-✔ Clearly defined project goals:
-- Analyze raw sales data
-- Clean and preprocess the dataset
-- Compute key sales metrics
-- Visualize trends and comparisons
-- Generate insight-driven conclusions
+This project addresses these challenges by converting raw transactional data into **clear, interpretable visual insights**.
 
 ---
 
-### ⚙️ Setup Instructions
-✔ Step-by-step setup instructions provided:
-1. Install Python dependencies using `requirements.txt`
-2. Run the main analysis script
-3. Automatically generate visualization outputs
-
-Commands are clearly documented and reproducible.
+## 🧠 Key Objectives
+- Perform structured exploratory data analysis (EDA)  
+- Clean and preprocess real-world sales data  
+- Compute key business metrics  
+- Visualize trends, distributions, and comparisons  
+- Follow professional GitHub and project standards  
+- Produce presentation-ready charts  
 
 ---
+
+## 🛠️ Tech Stack & Tools
+| Category | Tools |
+|-------|------|
+| Language | Python 3 |
+| Data Handling | Pandas, NumPy |
+| Visualization | Matplotlib |
+| Version Control | Git, GitHub |
+| OS | Cross-platform |
+
+---
+
+## 🧠 Key Objectives
+- Perform structured exploratory data analysis (EDA)
+- Compute key business metrics
+- Visualize trends, distributions, and comparisons
+- Follow professional GitHub project standards
+- Generate reusable, presentation-ready charts
+
+
+## 🎯 Problem Statement
+Businesses often collect sales data but fail to extract insights due to:
+- Poor data cleaning
+- Unstructured analysis
+- Ineffective visual communication
+
+This project solves that by converting raw transactional data into **decision-ready insights**.
+
+---
+
+## 📁 Project Structure
+week-4-data-visualization-python/
+├── data/
+│ └── sales_data.csv
+├── visualizations/
+│ ├── sales_by_product.png
+│ ├── monthly_sales_trend.png
+│ └── sales_by_region.png
+├── report/
+│ └── final_report.md
+├── main.py
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 ### 🧱 Code Structure
 ✔ Well-organized and logical file hierarchy:
@@ -92,18 +117,40 @@ Commands are clearly documented and reproducible.
 - Easy navigation for reviewers and collaborators
 
 The project follows industry-standard repository structure.
-
 ---
 
-### 📊 Visual Documentation
+## ⚙️ Setup & Execution Instructions
+✔ Step-by-step setup instructions provided:
+1. Install Python dependencies using `requirements.txt`
+2. Run the main analysis script
+3. Automatically generate visualization outputs
+
+Commands are clearly documented and reproducible.
+
+### 1️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+
+### 2️⃣ Run the Analysis
+python main.py
+
+## 📊 Visualizations
+
 ✔ Visual outputs are included and embedded directly in the README:
 - Sales by Product (Bar Chart)
 - Monthly Sales Trend (Line Chart)
 - Sales by Region (Pie Chart)
 
 These screenshots demonstrate correct functionality and analysis results.
+### Sales by Product
+![Sales by Product](https://raw.githubusercontent.com/mjchaudhary00/week-4-data-visualization-python/main/visualizations/sales_by_product.png)
 
----
+### Monthly Sales Trend
+![Monthly Sales Trend](https://raw.githubusercontent.com/mjchaudhary00/week-4-data-visualization-python/main/visualizations/monthly_sales_trend.png)
+
+### Sales by Region
+![Sales by Region](https://raw.githubusercontent.com/mjchaudhary00/week-4-data-visualization-python/main/visualizations/sales_by_region.png)
+
 
 ### 🧠 Technical Details
 ✔ The README and report explain:
@@ -113,9 +160,8 @@ These screenshots demonstrate correct functionality and analysis results.
 - Visualization logic using Matplotlib
 - Overall data analysis pipeline architecture
 
-The technical approach is transparent and easy to follow.
+The technical approach is transparent and easy to follow
 
----
 
 ### 🧪 Testing Evidence
 ✔ Validation and testing performed:
@@ -133,47 +179,3 @@ The technical approach is transparent and easy to follow.
 ✔ Suitable for portfolio and professional review  
 
 
-
-## 🎯 Problem Statement
-Businesses often collect sales data but fail to extract insights due to:
-- Poor data cleaning
-- Unstructured analysis
-- Ineffective visual communication
-
-This project solves that by converting raw transactional data into **decision-ready insights**.
-
----
-
-## 🧠 Key Objectives
-- Perform structured exploratory data analysis (EDA)
-- Compute key business metrics
-- Visualize trends, distributions, and comparisons
-- Follow professional GitHub project standards
-- Generate reusable, presentation-ready charts
-
----
-
-## 🛠️ Tech Stack & Tools
-| Category | Tools |
-|-------|------|
-| Language | Python 3 |
-| Data Handling | Pandas, NumPy |
-| Visualization | Matplotlib |
-| Version Control | Git, GitHub |
-| OS | Cross-platform |
-
----
-## 📊 Visualizations
-
-### Sales by Product
-![Sales by Product](https://raw.githubusercontent.com/mjchaudhary00/week-4-data-visualization-python/main/visualizations/sales_by_product.png)
-
-### Monthly Sales Trend
-![Monthly Sales Trend](https://raw.githubusercontent.com/mjchaudhary00/week-4-data-visualization-python/main/visualizations/monthly_sales_trend.png)
-
-### Sales by Region
-![Sales by Region](https://raw.githubusercontent.com/mjchaudhary00/week-4-data-visualization-python/main/visualizations/sales_by_region.png)
-
-
-
-## 📁 Project Structure
